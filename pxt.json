@@ -1,7 +1,7 @@
 {
-    "name": "Zero_IR",
+    "name": "Mbit_IR",
     "version": "1.0.2",
-    "description": "Extension for Zero_IR",
+    "description": "Extension for Onion3 Zero_IR",
     "dependencies": {
         "core": "*"
     },
